@@ -1,0 +1,23 @@
+{
+  "name": "tab-beautify",
+  "version": "0.0.0",
+  "description": "Beautify ASCII guitar tabs into vector-based tabs drawing with VexTab.",
+  "main": "index.js",
+  "dependencies": {
+    "vextab": "^2.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorenyu/tab-beautify.git"
+  },
+  "author": "lorenyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorenyu/tab-beautify/issues"
+  },
+  "homepage": "https://github.com/lorenyu/tab-beautify"
+}
